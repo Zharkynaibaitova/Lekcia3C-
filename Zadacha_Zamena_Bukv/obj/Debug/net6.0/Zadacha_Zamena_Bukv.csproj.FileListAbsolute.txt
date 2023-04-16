@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Zadacha_Zamena_Bukv\bin\Debug\net6.0\Zadacha_Zamena_Bukv.exe
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Zadacha_Zamena_Bukv\bin\Debug\net6.0\Zadacha_Zamena_Bukv.deps.json
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Zadacha_Zamena_Bukv\bin\Debug\net6.0\Zadacha_Zamena_Bukv.runtimeconfig.json
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Zadacha_Zamena_Bukv\bin\Debug\net6.0\Zadacha_Zamena_Bukv.dll
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Zadacha_Zamena_Bukv\bin\Debug\net6.0\Zadacha_Zamena_Bukv.pdb
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Zadacha_Zamena_Bukv\obj\Debug\net6.0\Zadacha_Zamena_Bukv.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Zadacha_Zamena_Bukv\obj\Debug\net6.0\Zadacha_Zamena_Bukv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Zadacha_Zamena_Bukv\obj\Debug\net6.0\Zadacha_Zamena_Bukv.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Zadacha_Zamena_Bukv\obj\Debug\net6.0\Zadacha_Zamena_Bukv.AssemblyInfo.cs
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Zadacha_Zamena_Bukv\obj\Debug\net6.0\Zadacha_Zamena_Bukv.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Zadacha_Zamena_Bukv\obj\Debug\net6.0\Zadacha_Zamena_Bukv.dll
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Zadacha_Zamena_Bukv\obj\Debug\net6.0\refint\Zadacha_Zamena_Bukv.dll
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Zadacha_Zamena_Bukv\obj\Debug\net6.0\Zadacha_Zamena_Bukv.pdb
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Zadacha_Zamena_Bukv\obj\Debug\net6.0\Zadacha_Zamena_Bukv.genruntimeconfig.cache
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Zadacha_Zamena_Bukv\obj\Debug\net6.0\ref\Zadacha_Zamena_Bukv.dll
