@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lekcia2C#_FOR/1.0.0": {
+        "runtime": {
+          "Lekcia2C#_FOR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lekcia2C#_FOR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

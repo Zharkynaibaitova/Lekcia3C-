@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Lekcia2C#_FOR\bin\Debug\net6.0\Lekcia2C#_FOR.exe
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Lekcia2C#_FOR\bin\Debug\net6.0\Lekcia2C#_FOR.deps.json
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Lekcia2C#_FOR\bin\Debug\net6.0\Lekcia2C#_FOR.runtimeconfig.json
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Lekcia2C#_FOR\bin\Debug\net6.0\Lekcia2C#_FOR.dll
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Lekcia2C#_FOR\bin\Debug\net6.0\Lekcia2C#_FOR.pdb
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Lekcia2C#_FOR\obj\Debug\net6.0\Lekcia2C#_FOR.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Lekcia2C#_FOR\obj\Debug\net6.0\Lekcia2C#_FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Lekcia2C#_FOR\obj\Debug\net6.0\Lekcia2C#_FOR.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Lekcia2C#_FOR\obj\Debug\net6.0\Lekcia2C#_FOR.AssemblyInfo.cs
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Lekcia2C#_FOR\obj\Debug\net6.0\Lekcia2C#_FOR.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Lekcia2C#_FOR\obj\Debug\net6.0\Lekcia2C#_FOR.dll
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Lekcia2C#_FOR\obj\Debug\net6.0\refint\Lekcia2C#_FOR.dll
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Lekcia2C#_FOR\obj\Debug\net6.0\Lekcia2C#_FOR.pdb
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Lekcia2C#_FOR\obj\Debug\net6.0\Lekcia2C#_FOR.genruntimeconfig.cache
+C:\Users\user\Desktop\Lekcia3C#\Lekcia3C-\Lekcia2C#_FOR\obj\Debug\net6.0\ref\Lekcia2C#_FOR.dll
